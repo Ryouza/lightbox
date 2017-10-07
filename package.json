@@ -1,0 +1,27 @@
+{
+  "name": "lightbox",
+  "version": "0.0.0",
+  "description": "An Xbox Live-powered Philips Hue integration",
+  "main": "app.js",
+  "dependencies": {
+    "philips-hue": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryouza/lightbox.git"
+  },
+  "keywords": [
+    "xbox",
+    "hue"
+  ],
+  "author": "Nicholas Dedenbach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ryouza/lightbox/issues"
+  },
+  "homepage": "https://github.com/Ryouza/lightbox#readme"
+}
